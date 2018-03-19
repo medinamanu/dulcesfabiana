@@ -40,3 +40,4 @@ React-Redux-Saga Boilerplate
 
 `cypress run` (with dev-server already running)
 `npm run test:automation` (start dev-server, run tests and exit)
+# dulcesfabiana
